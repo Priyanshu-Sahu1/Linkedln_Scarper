@@ -32,6 +32,7 @@ cd .\scraperSkeleton\
 After reaching to the scraperSkeleton directory
 Run following command in terminal.
 scrapy crawl LinkedlnCrawler -o filename.csv --nolog in the terminal.
+
 Notes:
 
 1)After extracting nearly 500 Urls of linkedln Profile Urls google prevent our automated script to extract Urls by requesting capture verification 
